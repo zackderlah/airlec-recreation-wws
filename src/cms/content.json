@@ -1,0 +1,2197 @@
+{
+  "site": {
+    "name": "Airlec Australia",
+    "logo": {
+      "src": "/assets/logo-airlec-australia-transparent-background-300px-cropped.png",
+      "alt": "Airlec Australia - Solar, Air & Electrical"
+    },
+    "badge": {
+      "src": "/assets/netcc-logo-approved-seller-full-rgb-300px.webp",
+      "alt": "Approved Seller - New Energy Tech Consumer Code"
+    },
+    "nav": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact.html"
+      },
+      {
+        "label": "Solar Power",
+        "href": "#",
+        "children": [
+          {
+            "label": "On Grid Solar Systems",
+            "href": "/on-grid-solar-systems.html"
+          },
+          {
+            "label": "Off Grid Solar Systems",
+            "href": "/off-grid-solar-systems.html"
+          },
+          {
+            "label": "Benefits",
+            "href": "/solar-power-benefits.html"
+          },
+          {
+            "label": "Products",
+            "href": "/solar-power-products.html"
+          },
+          {
+            "label": "Packages",
+            "href": "/solar-power-packages.html"
+          }
+        ]
+      },
+      {
+        "label": "Air Conditioning",
+        "href": "#",
+        "children": [
+          {
+            "label": "Split System",
+            "href": "/air-conditioning-split-systems.html"
+          },
+          {
+            "label": "Ducted Systems",
+            "href": "/air-conditioning-ducted-systems.html"
+          },
+          {
+            "label": "Evaporative Systems",
+            "href": "/air-conditioning-evaporative.html"
+          },
+          {
+            "label": "Packages",
+            "href": "/air-conditioning-packages.html"
+          }
+        ]
+      },
+      {
+        "label": "Electrical",
+        "href": "#",
+        "children": [
+          {
+            "label": "Lighting",
+            "href": "/electrical-lighting.html"
+          },
+          {
+            "label": "Wiring",
+            "href": "/electrical-wiring.html"
+          },
+          {
+            "label": "Design",
+            "href": "/electrical-design.html"
+          }
+        ]
+      },
+      {
+        "label": "more...",
+        "href": "#",
+        "children": [
+          {
+            "label": "Solar System News",
+            "href": "/solar-system-news.html"
+          },
+          {
+            "label": "Airlec Solar Installations",
+            "href": "/airlec-solar-installations.html"
+          },
+          {
+            "label": "About",
+            "href": "/about-will-campbell.html"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "title": "Help Energy Pty Ltd T/A Airlec Australia",
+      "abn": "ABN: 24623483689",
+      "columns": [
+        {
+          "heading": "Airlec Australia",
+          "lines": [
+            "Electrical licence: 147095",
+            "Contracting licence: 84644",
+            "Phone:  0472 621 860",
+            "admin@airlecaustralia.com.au"
+          ]
+        },
+        {
+          "heading": "Industry Qualifications",
+          "lines": [
+            "ARC Tick: L089479",
+            "REF Trading: AU46199",
+            "Solar Accreditation Australia: S7200887"
+          ]
+        },
+        {
+          "heading": "Solar Power Systems",
+          "lines": [
+            "Solar Panels",
+            "Solar Power Inverters",
+            "Solar Power Monitoring",
+            "Solar Power Batteries"
+          ]
+        },
+        {
+          "heading": "Air Conditioning Systems",
+          "lines": [
+            "Split Systems",
+            "Evaporative Systems",
+            "Ducted Systems"
+          ]
+        },
+        {
+          "heading": "General Electrical",
+          "lines": [
+            "Electrical Wiring",
+            "Switchboards",
+            "Electrical Design"
+          ]
+        }
+      ],
+      "credit": {
+        "text": "Powered by",
+        "label": "Working Websites",
+        "href": "https://www.workingwebsites.net.au"
+      }
+    }
+  },
+  "pageContent": {
+    "/": {
+      "type": "home",
+      "seo": {
+        "title": "Solar Power System Toowoomba | Airlec Australia",
+        "description": "Solar Systems, Air Conditioning Systems and Electrical Toowoomba. Contact Airlec Australia on 0466 320 600"
+      },
+      "hero": {
+        "image": {
+          "src": "/assets/hero-solar-panels.jpg",
+          "alt": "Solar panels under a blue sky"
+        },
+        "heading": "Airlec Australia",
+        "tagline": "The Solar Powered Electricians",
+        "phone": {
+          "label": "0472 621 860",
+          "href": "tel:0472621860"
+        },
+        "banner": {
+          "src": "/assets/banner-468x60-brighte-green-loan_orig.png",
+          "alt": "Pay in fortnightly instalments with the Brighte Green Loan",
+          "href": "https://brighte.com.au/homeowners/green-loan/"
+        }
+      },
+      "cards": [
+        {
+          "icon": {
+            "src": "/assets/solar-battery_2.png",
+            "alt": "On Grid Solar Toowoomba",
+            "href": "/"
+          },
+          "heading": "Solar Systems",
+          "button": {
+            "label": "Products",
+            "href": "/solar-power-products.html"
+          },
+          "text": "We design, supply and install On-Grid as well as Off-Grid Solar Systems from 5kw to 30kw for commercial, agricultural and domestic applications. Our installation area includes Toowoomba and the South Western region of Queensland.",
+          "logo": {
+            "src": "/assets/winaico_1.png",
+            "alt": "Winaico Approved Retailer"
+          }
+        },
+        {
+          "icon": {
+            "src": "/assets/air-conditioner_2.png",
+            "alt": "Air Conditioning Toowoomba",
+            "href": "/air-conditioning-split-systems.html"
+          },
+          "heading": "Air Conditioning",
+          "button": {
+            "label": "Packages",
+            "href": "/air-conditioning-packages.html"
+          },
+          "text": "Take advantage of the significant cost savings when you purchase one of our fantastic Air Conditioning Packages. Systems include Mitsubishi, Fujitsu and other leading brands supplied and installed at your convenience.",
+          "logo": {
+            "src": "/assets/arc-ctm.jpg",
+            "alt": "ARC Tick"
+          }
+        },
+        {
+          "icon": {
+            "src": "/assets/circular-power-on-button_2.png",
+            "alt": "Toowoomba Electrician power",
+            "href": "/"
+          },
+          "heading": "General Electrical",
+          "button": {
+            "label": "Lighting",
+            "href": "/electrical-lighting.html"
+          },
+          "text": "While we're installing your Solar system we can help you with any other electrical requirements you might have. Additional power, lighting, rewiring, safety checks, appliance installation and repairs.",
+          "logo": {
+            "src": "/assets/master-installer-logo-1.jpg",
+            "alt": "Smart Energy Council Master Installer"
+          }
+        }
+      ],
+      "enquiry": {
+        "heading": "I'd like to know more",
+        "embeds": [
+          {
+            "title": "Airlec Testimonial Slider",
+            "src": "https://form.jotform.com/200089139297057?parentURL=https%3A%2F%2Fwww.airlecaustralia.com.au%2F&jsForm=true",
+            "height": 591
+          },
+          {
+            "title": "Airlec enquiry form",
+            "src": "https://tradehq.com/airlecaustralia/Enquire",
+            "height": 1050
+          }
+        ]
+      }
+    },
+    "/solar-power-products.html": {
+      "type": "service",
+      "seo": {
+        "title": "Solar Power Products Toowoomba | Airlec Australia",
+        "description": "Airlec Australia in Toowoomba supply and install a range of Solar Power products and packages. Call  0466 320 600"
+      },
+      "banner": {
+        "title": "Solar Power Products",
+        "icon": {
+          "src": "/assets/solar-battery-100px_orig.png",
+          "alt": "Picture",
+          "width": 100
+        },
+        "logo": {
+          "src": "/assets/winaico.png",
+          "alt": "Picture",
+          "width": 209
+        }
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Cost effective, quality solar systems and products"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "An extensive range of solar panels and inverters are currently available on the market and like many other products, solar products vary in quality, efficiency and design. Airlec Australia recommends the following products as they have been found them to be the most cost effective quality products currently available on the market."
+            }
+          ]
+        },
+        {
+          "type": "accordion",
+          "title": [
+            {
+              "text": "Inverters",
+              "strong": true
+            }
+          ],
+          "blocks": [
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/solar-edge-inverter.jpg",
+                          "alt": "solar-edge-inverter"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Solar Edge Inverters",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "Solaredge",
+                          "href": "https://www.solaredge.com/products/pv-inverter/single-phase#/",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/fronius-primo-inverter-400px.png",
+                          "alt": "fronius-inverter"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Fronius Inverters",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "Fronius",
+                          "href": "http://www.fronius.com/en-au/australia/photovoltaics/products/all-products/inverters/fronius-primo/fronius-primo-3-0-1",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/sungrow-hybrid-solar-inverter-sh5k-400px.jpg",
+                          "alt": "sungrow-inverter"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Sungrow Inverters",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "Sungrow",
+                          "href": "https://www.sungrowpower.com.au/",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/sma-inverters-screenshot_orig.png",
+                          "alt": "Picture"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "SMA Inverters",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "SMA",
+                          "href": "https://www.sma-australia.com.au/products/overview.html",
+                          "newTab": true
+                        },
+                        {
+                          "text": " website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/enphase-micro-inverter-screenshot.jpg",
+                          "alt": "Picture"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Enphase Micro Inverters",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "Enphase",
+                          "href": "https://enphase.com/en-au/products-and-services/microinverters",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/sppro-series2i-familylogo.jpg",
+                          "alt": "Picture"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Selectronic Inverters",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "Selectronic",
+                          "href": "https://www.selectronic.com.au/sppro/",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "accordion",
+          "title": [
+            {
+              "text": "Solar Panels",
+              "strong": true
+            }
+          ],
+          "blocks": [
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/winaico-module-front-wsp-320mx-04-07.jpg",
+                          "alt": "Picture"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Winaico",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on Winaico solar panels visit the "
+                        },
+                        {
+                          "text": "Winaico",
+                          "href": "https://www.winaico.com/en/",
+                          "newTab": true
+                        },
+                        {
+                          "text": " website"
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/logo-winaico-en.gif",
+                          "alt": "Picture"
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/screenshot-www-jasolar-com-2020-04-06-10-51-52.jpg",
+                          "alt": "phon-solar-panel"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "JA Solar Panels",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on JA Solar panels visit the "
+                        },
+                        {
+                          "text": "JA Solar",
+                          "href": "https://www.jasolar.com/html/en/en_hcm/",
+                          "newTab": true
+                        },
+                        {
+                          "text": " website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/jinko-solar-panels.png",
+                          "alt": "jinko-solar-panel"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Jinko Solar Panels",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on Jinko Solar Panels visit the "
+                        },
+                        {
+                          "text": "Jinko",
+                          "href": "https://jinkosolar.com.au/products/",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "accordion",
+          "title": [
+            {
+              "text": "Monitoring Kits",
+              "strong": true
+            }
+          ],
+          "blocks": [
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/solaredge-monitoring.jpg",
+                          "alt": "solaredge-pv-monitor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Solar Edge PV Monitoring System",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product"
+                        },
+                        {
+                          "text": "\n"
+                        },
+                        {
+                          "text": "visit the "
+                        },
+                        {
+                          "text": "Solar Edge",
+                          "href": "https://www.solaredge.com/products/pv-monitoring#/",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website."
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/solar-analytics-monitoring.png",
+                          "alt": "solar-analytics-pv-monitor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Solar Analytics PV Monitoring System",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product"
+                        },
+                        {
+                          "text": "\n"
+                        },
+                        {
+                          "text": "visit the "
+                        },
+                        {
+                          "text": "Solar Analytics",
+                          "href": "https://www.solaranalytics.com/au/",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website."
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  []
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "accordion",
+          "title": [
+            {
+              "text": "Battery Systems",
+              "strong": true
+            }
+          ],
+          "blocks": [
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/lg-battery-400x600.jpg",
+                          "alt": "LG-Solar-battery"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "LG Chem Battery Systems",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product"
+                        },
+                        {
+                          "text": "\n"
+                        },
+                        {
+                          "text": "visit the "
+                        },
+                        {
+                          "text": "LG",
+                          "href": "https://www.lgenergy.com.au/products/battery",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website."
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/byd-solar-battery-600px.png",
+                          "alt": "Picture"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "BYD Battery Systems",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "BYD",
+                          "href": "https://www.byd.com/en/NewEnergy.html",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/powerplus-life-premium-4833p-battery-768x265_orig.png",
+                          "alt": "Picture"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "PowerPlus Energy Battery Systems",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "PowerPlus Energy",
+                          "href": "https://www.powerplus-energy.com.au/products/",
+                          "newTab": true
+                        },
+                        {
+                          "text": " website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "images",
+                      "items": [
+                        {
+                          "src": "/assets/sb-fr-solar-battery.jpg",
+                          "alt": "Picture"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Fronius Battery Systems",
+                          "strong": true
+                        }
+                      ],
+                      "align": "center"
+                    },
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "For more information on this product visit the "
+                        },
+                        {
+                          "text": "Fronius",
+                          "href": "https://www.fronius.com/en-au/australia/photovoltaics/expertise/storage-solutions",
+                          "newTab": true
+                        },
+                        {
+                          "text": "website"
+                        }
+                      ],
+                      "align": "center"
+                    }
+                  ],
+                  [],
+                  []
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "/contact.html": {
+      "type": "contact",
+      "seo": {
+        "title": "Contact Electrician in Toowoomba Airlec Australia",
+        "description": "Contact Airlec Australia, the Solar Powered Electricians in Toowoomba on 0466 320 600"
+      },
+      "banner": {
+        "title": "Contact Airlec Australia"
+      },
+      "blocks": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/telephone-symbol-button-64px_orig.png",
+              "alt": "call will campbell toowoomba",
+              "href": "tel:0466320600",
+              "width": 64
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Call the Airlec Australia Team",
+              "strong": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "0472 621 860",
+              "href": "tel:0472621860"
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "admin@airlecaustralia.com.au",
+              "strong": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/newspaper_orig.png",
+              "alt": "request quote airlec australia",
+              "width": 64
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Request a Quote",
+              "strong": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "rule"
+        },
+        {
+          "type": "embed",
+          "src": "https://tradehq.com/airlecaustralia/Enquire",
+          "title": "",
+          "height": 1050
+        }
+      ],
+      "forms": [
+        {
+          "icon": {
+            "src": "/assets/email-open-envelope-in-a-rounded-square_1.png",
+            "alt": "email airlec australia"
+          },
+          "heading": "Ask a Question",
+          "fields": [
+            {
+              "label": "Name",
+              "type": "name",
+              "required": true,
+              "name": "name"
+            },
+            {
+              "label": "Email",
+              "type": "email",
+              "required": true,
+              "name": "email"
+            },
+            {
+              "label": "Phone",
+              "type": "tel",
+              "required": true,
+              "name": "phone"
+            },
+            {
+              "label": "I'd like to know more about",
+              "type": "select",
+              "required": true,
+              "name": "topic",
+              "options": [
+                "Select an option",
+                "Solar Systems",
+                "Air Conditioning",
+                "Electrical",
+                "Interest Free Finance",
+                "Other (please comment)"
+              ]
+            },
+            {
+              "label": "Comments",
+              "type": "textarea",
+              "required": true,
+              "name": "comments"
+            }
+          ]
+        },
+        {
+          "icon": {
+            "src": "/assets/dollar-coin-money_1_orig.png",
+            "alt": "Finance enquiry"
+          },
+          "heading": "Finance Enquiry",
+          "fields": [
+            {
+              "label": "Name",
+              "type": "name",
+              "required": true,
+              "name": "name"
+            },
+            {
+              "label": "Email",
+              "type": "email",
+              "required": true,
+              "name": "email"
+            },
+            {
+              "label": "Phone",
+              "type": "tel",
+              "required": true,
+              "name": "phone"
+            },
+            {
+              "label": "I'm thinking of financing:",
+              "type": "select",
+              "required": true,
+              "name": "financing",
+              "options": [
+                "Select an option",
+                "Solar System",
+                "Air Conditioning System"
+              ]
+            },
+            {
+              "label": "Enquiry Details",
+              "type": "textarea",
+              "required": true,
+              "name": "details"
+            }
+          ]
+        }
+      ]
+    },
+    "/about-will-campbell.html": {
+      "type": "about",
+      "seo": {
+        "title": "Airlec Australia | Solar Electrician in Toowoomba",
+        "description": "Will Campbell is the Director of Airlec Australia based in Toowoomba. Call Will on  0466 320 600"
+      },
+      "banner": {
+        "title": "About Airlec Australia"
+      },
+      "blocks": [
+        {
+          "type": "columns",
+          "rows": [
+            [
+              [
+                {
+                  "type": "images",
+                  "items": [
+                    {
+                      "src": "/assets/fit-solar-panel-600x900depositphotos-161550574-l-2015_orig.jpg",
+                      "alt": "about-will-campbell-toowoomba",
+                      "width": 412
+                    }
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "runs": [
+                    {
+                      "text": "What We Do"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "runs": [
+                    {
+                      "text": "Airlec Australia specialises in the supply and installation of affordable solar power, air conditioning and general electrical services. Our company provides services to clients in both South East and Western Queensland and is committed to delivering quality products and services and tailoring solutions for customers that are best suited to their needs. We take pride in delivering a superior customer experience by offering an excellent standard of workmanship and industry knowledge, quality products and safe working procedures and practices."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "runs": [
+                    {
+                      "text": "Exceptional Solar and Electrical Solutions"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "runs": [
+                    {
+                      "text": "Airlec Australia will provide exceptional solar, air conditioning and electrical solutions for our customers in line with current workplace health and electrical safety standards and regulations. We strive to build long term and repeat clientele by not only meeting, but exceeding our client’s needs and expectations and by providing a prompt and responsive service that values quality and integrity. Airlec is committed to being ahead of the field by keeping up to date with industry changes, new products and technologies to be able to pass onto our client base."
+                    }
+                  ]
+                },
+                {
+                  "type": "rule"
+                },
+                {
+                  "type": "paragraph",
+                  "runs": [
+                    {
+                      "text": "\"A customer is the most important visitor on our premises, he is not dependent on us. We are dependent on him. He is not an interruption in our work. He is the purpose of it. He is not an outsider in our business. He is part of it. We are not doing him a favour by serving him. He is doing us a favour by giving us an opportunity to do so.\" ",
+                      "em": true
+                    },
+                    {
+                      "text": "\n"
+                    },
+                    {
+                      "text": "Mahatma Gandhi",
+                      "em": true,
+                      "strong": true
+                    }
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    "/airlec-solar-installations.html": {
+      "type": "listing",
+      "seo": {
+        "title": "Solar System Installations Toowoomba | Airlec Australia",
+        "description": "Find out why you should use Airlec Australia in Toowoomba to install your On-Grid and Off-Grid Solar Panel System. Visit our website to read about our past installation projects and view customer testimonials."
+      },
+      "banner": {
+        "title": "Airlec Solar Installations"
+      },
+      "sidebar": {
+        "heading": "Project Type",
+        "items": []
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Commercial On-Grid Solar Installation | BP on Bridge and Mary Street",
+              "href": "/airlec-solar-installations/commercial-on-grid-solar-installation-bp-on-bridge-and-mary-street"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "10/6/2020"
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/solar-commercial-bp-2-optimised.jpg",
+              "alt": "solar panels installed on BP service station toowoomba",
+              "href": "/assets/solar-commercial-bp-2-optimised_orig.jpg",
+              "width": 440
+            },
+            {
+              "src": "/assets/solar-commercial-bp-optimised.jpg",
+              "alt": "solar panels installed by Airlec Australia on BP service station in Toowoomba",
+              "href": "/assets/solar-commercial-bp-optimised_orig.jpg",
+              "width": 440
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The commercial solar installation at BP Bridge and Mary consisted of a 36.4 Kilowatt system featuring 91, 400 Watt Seraphim panels coupled with a three phase 27.6 KW SolarEdge Inverter. "
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/airlec-solar-installations/commercial-on-grid-solar-installation-bp-on-bridge-and-mary-street"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "12.6 Kw On-Grid Solar System installed on family property",
+              "href": "/airlec-solar-installations/126-kw-on-grid-solar-system-installed-on-family-property"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "2/4/2020"
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/neil-1-1280px.jpg",
+              "alt": "solar system installed on family property in Toowoomba",
+              "href": "/assets/neil-1-1280px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/neil-2-1280px.jpg",
+              "alt": "Airlec Australia solar system installation on family farm in Toowoomba",
+              "href": "/assets/neil-2-1280px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/neil-3-1280px.jpg",
+              "alt": "Fronius 3 phase inverter installed by Airlec Australia",
+              "href": "/assets/neil-3-1280px_orig.jpg",
+              "width": 290
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/airlec-solar-installations/126-kw-on-grid-solar-system-installed-on-family-property"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Off Grid Solar Installation - Mc Innerney Farming",
+              "href": "/airlec-solar-installations/off-grid-solar-installation-mc-innerney-farming"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "2/4/2020"
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/mcinnerney-1-1280px.jpg",
+              "alt": "Solar installation at Mc Innerney Farming by Airlec Australia",
+              "width": 892
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "For my part it was great to have Airlec Australia complete my Off Grid Solar Installation and Electrical. I liked the way you and the team get stuck in to the work and there's no mucking around. The quality of your work is faultless and everything is well finished. I feel confident that the equipment you have put in is high quality and will stand the test of time. The system itself is well integrated and seamless. I love that I can weld at full power and it doesn't draw down on the batteries.",
+              "em": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Mc Innerney Farming",
+              "em": true,
+              "strong": true
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/airlec-solar-installations/off-grid-solar-installation-mc-innerney-farming"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "On Grid Solar System - Affordable Quality Bathrooms and Kitchens",
+              "href": "/airlec-solar-installations/on-grid-solar-system-affordable-quality-bathrooms-and-kitchens"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "2/4/2020"
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/affordable-quality-bathrooms-and-kitchens-2-1280px.jpg",
+              "alt": "Solar system installation for Affordable Quality Bathrooms and Kitchens in Toowoomba by Airlec Australia",
+              "href": "/assets/affordable-quality-bathrooms-and-kitchens-2-1280px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/affordable-quality-bathrooms-and-kitchens-3-1280px.jpg",
+              "alt": "Commercial solar system installation by Airlec Australia for Affordable Quality Bathrooms and Kitchens",
+              "href": "/assets/affordable-quality-bathrooms-and-kitchens-3-1280px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/affordable-quality-bathrooms-and-kitchens-1-1280px.jpg",
+              "alt": "3 Phase Solar Edge inverter installed by Airlec Australia",
+              "href": "/assets/affordable-quality-bathrooms-and-kitchens-1-1280px_orig.jpg",
+              "width": 290
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Recently had solar panels installed on our shed at Affordable Quality Bathrooms and Kitchens and was very impressed by the service we received. Great prices, highly organised and very professional.",
+              "em": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Melissa and Michael Wilkinson",
+              "em": true,
+              "strong": true
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/airlec-solar-installations/on-grid-solar-system-affordable-quality-bathrooms-and-kitchens"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "On-Grid Solar System Installation for ABT Logistics",
+              "href": "/airlec-solar-installations/on-grid-solar-system-installation-for-abt-logistics"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "2/4/2020"
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "rows": [
+            [
+              [
+                {
+                  "type": "images",
+                  "items": [
+                    {
+                      "src": "/assets/abt-logistics-1-1280px.jpg",
+                      "alt": "Commercial solar installation by Airlec Australia for ABT Logistics Toowoomba",
+                      "href": "/assets/abt-logistics-1-1280px_orig.jpg",
+                      "width": 489
+                    }
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "images",
+                  "items": [
+                    {
+                      "src": "/assets/abt-logistics-2-1280px.jpg",
+                      "alt": "Solar Edge Inverter installed by Airlec Australia",
+                      "href": "/assets/abt-logistics-2-1280px_orig.jpg",
+                      "width": 316
+                    }
+                  ]
+                }
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/airlec-solar-installations/on-grid-solar-system-installation-for-abt-logistics"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "<<Previous",
+              "href": "/airlec-solar-installations/previous/2"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        }
+      ]
+    },
+    "/solar-system-news.html": {
+      "type": "listing",
+      "seo": {
+        "title": "Solar System News Toowoomba | Airlec Australia",
+        "description": "Read all about the latest Solar Panel System news and technology on the Airlec Australia Solar Systems Blog."
+      },
+      "banner": {
+        "title": "Solar System News"
+      },
+      "sidebar": {
+        "heading": "Topics",
+        "items": []
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Solar System Servicing - 5 Checks That Will Save You Money",
+              "href": "/solar-system-news/solar-system-servicing-5-checks-that-will-save-you-money"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "30/7/2020"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "While your solar power installation will generally require little maintenance, it is very important that regular checks are carried out to ensure your system is at it's optimum performance. After all, you had it installed to save money! "
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/pixabay-solar-energy-2157212-1920_orig.jpg",
+              "alt": "solar panels",
+              "width": 892
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/solar-system-news/solar-system-servicing-5-checks-that-will-save-you-money"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "How to Plan a Solar System for your New Home",
+              "href": "/solar-system-news/how-to-plan-a-solar-system-for-your-new-home"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "16/2/2020"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Planning and building your new home is a very exciting time! Along with the lengthy list of decisions surrounding fixtures and fitting choices, it can be very cost effective and beneficial to consider your solar installation before you have even started your building design. If you are considering solar power for your new home the time to start planning for it is now!"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/new-house-toston_orig.jpg",
+              "alt": "solar panel system installed by Airlec Australia toowoomba",
+              "width": 892
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/solar-system-news/how-to-plan-a-solar-system-for-your-new-home"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Which Solar System is Right for You?",
+              "href": "/solar-system-news/which-solar-system-is-right-for-you"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "6/2/2020"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Rising electricity costs and the desire to use green energy are very good reasons to start thinking about solar for you and your family. But which system is right for you?"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/residential-solar-val-man.jpeg",
+              "alt": "Solar Panel System installed on 2 storey home by Airlec Australia Toowoomba",
+              "width": 892
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Read More",
+              "href": "/solar-system-news/which-solar-system-is-right-for-you"
+            }
+          ],
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "16px"
+        }
+      ]
+    },
+    "/solar-system-news/which-solar-system-is-right-for-you": {
+      "type": "post",
+      "seo": {
+        "title": "Which Solar System is right for you?",
+        "description": "Rising electricity costs and the desire to use green energy are very good reasons to start thinking about solar for you and your family. But which system is right for you?  Read more about this and other important solar system considerations at the Airlec"
+      },
+      "banner": {
+        "title": "Solar System News"
+      },
+      "sidebar": {
+        "heading": "Topics",
+        "items": []
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Which Solar System is Right for You?",
+              "href": "/solar-system-news/which-solar-system-is-right-for-you"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "6/2/2020"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Rising electricity costs and the desire to use green energy are very good reasons to start thinking about solar for you and your family. But which system is right for you?"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/residential-solar-val-man.jpeg",
+              "alt": "Solar Panel System installed on 2 storey home by Airlec Australia Toowoomba",
+              "width": 892
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "What is your energy consumption?"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The best way to understand your energy consumption is by looking at your bill from your electricity provider. There will be an average daily usage in KWH (Kilowatt hours) listed on your bill to give you a guide on your daily consumption. The below table is a sizing guide based on your family make up. This is only a generalisation and you will need to understand your usage based on your actual bill to assist in making an informed decision regarding size requirements. You will also need to consider if you want to completely eliminate your electricity bill or if you intend to only reduce the cost of your power."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "panel",
+          "background": "rgb(245, 245, 245)",
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 2,
+              "runs": [
+                {
+                  "text": "Solar System Sizing Guide"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "1 - 2 people",
+                          "strong": true
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "2 - 3 kw System"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Average production of 12 kwh per day"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "2 - 3 people",
+                          "strong": true
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "3 - 4 kw System"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Average production of 16 kwh per day"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "3 - 4 people",
+                          "strong": true
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "5 - 8 kw System"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Average production of 36 kwh per day"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Panels and Inverters"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "There are an extensive range of solar panels and inverters available on the marketing depending on your budget and the expectations of your system. Panels and inverters range in wattage output, type, warranty, colour and size so it is important to understand what you are hoping to achieve through your installation before giving consideration to the system design."
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Some questions you will need to ask are:",
+              "strong": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "What is your roof like?"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "do you have limited space, and do you suffer from shading from nearby trees? There are larger wattage panels available to reduce the number of panels required for roofs that have limited space. If you have shading issues you should consider a panel with an optimiser to ensure the greatest output range can be achieved. Removing the trees causing the shading is a more favourable option. For unsuitable roof spaces, or if you are concerned about the appearance of the system, you can consider a ground mount design."
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Is this your forever home?"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "If you are planning to live in your home for the long term, we recommend investing in a good quality panel and inverter that has a significant warranty attached to give you the peace of mind of the longevity of the system. In knowing your circumstances, we can recommend the best system to suit your budget and output expectations."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Site Visit"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A site visit gives you the opportunity to ask any questions you may have regarding solar products, how the system works and about Airlec as a Company. After the site visit, we will provide a proposal that will outline a detailed solar design, return on investment, and full product information (including warranty) tailored to meet your needs. Once you receive the proposal we can discuss why this is the best system for you."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Contact the Airlec team today to have a chat and book your site visit on ",
+              "strong": true
+            },
+            {
+              "text": "0466320600",
+              "strong": true,
+              "href": "tel:0466320600"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "panel",
+          "background": "rgb(230, 240, 249)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Comments are closed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "/airlec-solar-installations/on-grid-solar-system-for-commercial-turf-farm": {
+      "type": "post",
+      "seo": {
+        "title": "Commercial Turf Farm gets On Grid Solar System | Airlec Australia",
+        "description": "On-Grid Solar System installed at Turf Farm in Toowoomba by Airlec Australia"
+      },
+      "banner": {
+        "title": "Airlec Solar Installations"
+      },
+      "sidebar": {
+        "heading": "Project Type",
+        "items": []
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "On-Grid Solar System for Commercial Turf Farm",
+              "href": "/airlec-solar-installations/on-grid-solar-system-for-commercial-turf-farm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "1/4/2020"
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/commercial-turf-farm-2-800px.jpg",
+              "alt": "Commercial turf farm gets on-grid solar system installed by Airlec Australia",
+              "href": "/assets/commercial-turf-farm-2-800px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/commercial-turf-farm-3-1280px.jpg",
+              "alt": "Toowoomba Turf Farm gets On-Grid Solar installed by Airlec Australia",
+              "href": "/assets/commercial-turf-farm-3-1280px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/commercial-turf-farm-1-1280px.jpg",
+              "alt": "Solar Edge Inverter installed by Airlec Australia",
+              "href": "/assets/commercial-turf-farm-1-1280px_orig.jpg",
+              "width": 290
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "This project consisted of adding two additional systems to supplement the high-power usage at the turf farm. The systems that were installed consisted of:",
+              "strong": true
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            [
+              {
+                "text": "6.82 KW system consisting of 22 x Winaico WST310-M6 panels coupled with a SolarEdge Inverter SE7K"
+              }
+            ],
+            [
+              {
+                "text": "17.36 KW system consisting of 56 x Winaico WST310-M6 panels coupled with a SolarEdge Inverter SE15K"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Winaico Panels hold a 15 year product warranty and 25 year performance warranty with the SolarEdge inverters offering superior efficiency ratings with a 12 year warranty extendable to 25 years."
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "To find out more about these panels click on the link below:"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "https://www.winaico.com.au/products/wst-310-m6",
+              "href": "https://www.winaico.com.au/products/wst-310-m6",
+              "newTab": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "To find out more about the Solar Edge three phase inverters click on the link below:"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "https://www.solaredge.com/aus/products/pv-inverter/three-phase#/",
+              "href": "https://www.solaredge.com/aus/products/pv-inverter/three-phase#/",
+              "newTab": true
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "panel",
+          "background": "rgb(230, 240, 249)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Comments are closed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
