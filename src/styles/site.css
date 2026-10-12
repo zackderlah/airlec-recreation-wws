@@ -34,7 +34,7 @@ p{margin:0}
 .menu-toggle{display:none;position:absolute;left:12px;top:6px;width:38px;height:34px;padding:0;border:0;background:none;cursor:pointer}
 .menu-toggle span{position:absolute;left:8px;width:22px;height:2px;background:#000}
 .menu-toggle span:nth-child(1){top:10px}.menu-toggle span:nth-child(2){top:18px}.menu-toggle span:nth-child(3){top:26px}
-.badge{position:absolute;left:1220px;top:45px;width:114px;height:114px;z-index:20}
+.badge{position:absolute;right:106px;top:45px;width:114px;height:114px;z-index:20}
 
 /* Page frame */
 .page{max-width:1360px;margin:0 auto;background:#fff}
