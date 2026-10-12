@@ -1,4 +1,4 @@
-// Generates src/pages/*.html from src/cms/content.json. The generated HTML is committed: it is what the WWS
+// Generates the pages (index.html, <route>/index.html) from src/cms/content.json. The generated HTML is committed: it is what the WWS
 // importer reads. Edit content.json (or the templates here) and re-run: node scripts/generate-pages.mjs
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -108,12 +108,13 @@ ${page.blocks.length ? `<section class="contact-cards">${(() => {
 };
 
 const longTitle = title => title.length > 22;
-const outDir = path.join(root, 'src/pages');
+// Pages live at the repo root as <route>/index.html: the WWS importer derives page slugs from file paths.
+const outDir = root;
 await fs.mkdir(outDir, { recursive: true });
 for (const [route, page] of Object.entries(cms.pageContent)) {
   const render = templates[page.type];
   if (!render) throw new Error(`No template for page type "${page.type}" (${route})`);
-  const file = route === '/' ? 'index.html' : /\.html$/.test(route) ? route.replace(/^\//, '') : route.replace(/^\//, '') + '/index.html';
+  const file = route === '/' ? 'index.html' : route.replace(/^\//, '') + '/index.html';
   const html = `<!doctype html>
 <html lang="en-AU">
 <head>
@@ -133,5 +134,5 @@ ${footer(page)}
 `;
   await fs.mkdir(path.dirname(path.join(outDir, file)), { recursive: true });
   await fs.writeFile(path.join(outDir, file), html);
-  console.log(`wrote src/pages/${file}`);
+  console.log(`wrote ${file}`);
 }

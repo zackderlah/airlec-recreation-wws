@@ -6,13 +6,16 @@ templates and still need content extraction (see "Not done").
 
 ## Pages recreated
 
+Routes are extensionless (WWS slugs). The live site uses `.html` URLs (`/contact.html`, `/about-will-campbell.html`, ...), so redirects
+from the old URLs must be added in WWS before the domain is switched.
+
 | Template | Route |
 |---|---|
 | Home | `/` |
-| Service (accordion) | `/solar-power-products.html` |
-| Contact (3 forms) | `/contact.html` |
-| About | `/about-will-campbell.html` |
-| Listing | `/airlec-solar-installations.html`, `/solar-system-news.html` |
+| Service (accordion) | `/solar-power-products` |
+| Contact (3 forms) | `/contact` |
+| About | `/about-will-campbell` |
+| Listing | `/airlec-solar-installations`, `/solar-system-news` |
 | Post | `/solar-system-news/which-solar-system-is-right-for-you`, `/airlec-solar-installations/on-grid-solar-system-for-commercial-turf-farm` |
 
 ## Match to the original site (pixel diff vs the captured source screenshots)
@@ -41,3 +44,5 @@ per-run font size, content outside the 640px tablet column is shifted in. Full l
 - Form submission, hover/animation states, accordion open/close in the WWS preview, and the deployed WWS importer were not tested.
 - Fonts: Montserrat/Roboto are self-hosted and must be registered in WWS; brandon-grotesque is an Adobe Fonts (Typekit) font and is not.
 - Nothing has been published, pushed or imported into WWS.
+- Real importer (offline check, importer commit bff733f): `needs-review`, 8 pages, 0 blockers. That check only confirms content, routes and assets; native layout was not compared
+  through the importer itself.

@@ -5,11 +5,11 @@ Plain static HTML + CSS (Astro cannot build on Node 20 here, and the WWS import 
 
 ## Layout
 
-- `src/pages/` generated pages (one per URL, original URLs kept: `/contact.html`, `/solar-system-news/<post>`). Committed: this is what WWS reads.
+- `index.html`, `<route>/index.html` generated pages at the repo root, one per URL, extensionless (`/contact`, `/solar-system-news/<post>`). The WWS importer derives page slugs from these paths. Committed: this is what WWS reads. The live site's `.html` URLs (`/contact.html`) need redirects in WWS.
 - `src/cms/content.json` all copy, image paths and links, keyed by route. Edit this, not the HTML.
 - `src/styles/site.css` one stylesheet. Breakpoints: desktop, tablet `601-820` (designed for WWS's 640px tablet column), mobile `<=600`.
 - `public/assets`, `public/fonts` images and self-hosted Montserrat/Roboto (from the live site).
-- `scripts/generate-pages.mjs` content.json + templates -> `src/pages/*.html`. `scripts/stage.mjs` -> `dist/` for local serving.
+- `scripts/generate-pages.mjs` content.json + templates -> the root pages. `scripts/stage.mjs` -> `dist/` for local serving.
 
 ```bash
 node scripts/generate-pages.mjs && node scripts/stage.mjs   # then serve dist/

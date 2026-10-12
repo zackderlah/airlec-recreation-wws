@@ -16,7 +16,7 @@
       },
       {
         "label": "Contact",
-        "href": "/contact.html"
+        "href": "/contact"
       },
       {
         "label": "Solar Power",
@@ -24,23 +24,23 @@
         "children": [
           {
             "label": "On Grid Solar Systems",
-            "href": "/on-grid-solar-systems.html"
+            "href": "/on-grid-solar-systems"
           },
           {
             "label": "Off Grid Solar Systems",
-            "href": "/off-grid-solar-systems.html"
+            "href": "/off-grid-solar-systems"
           },
           {
             "label": "Benefits",
-            "href": "/solar-power-benefits.html"
+            "href": "/solar-power-benefits"
           },
           {
             "label": "Products",
-            "href": "/solar-power-products.html"
+            "href": "/solar-power-products"
           },
           {
             "label": "Packages",
-            "href": "/solar-power-packages.html"
+            "href": "/solar-power-packages"
           }
         ]
       },
@@ -50,19 +50,19 @@
         "children": [
           {
             "label": "Split System",
-            "href": "/air-conditioning-split-systems.html"
+            "href": "/air-conditioning-split-systems"
           },
           {
             "label": "Ducted Systems",
-            "href": "/air-conditioning-ducted-systems.html"
+            "href": "/air-conditioning-ducted-systems"
           },
           {
             "label": "Evaporative Systems",
-            "href": "/air-conditioning-evaporative.html"
+            "href": "/air-conditioning-evaporative"
           },
           {
             "label": "Packages",
-            "href": "/air-conditioning-packages.html"
+            "href": "/air-conditioning-packages"
           }
         ]
       },
@@ -72,15 +72,15 @@
         "children": [
           {
             "label": "Lighting",
-            "href": "/electrical-lighting.html"
+            "href": "/electrical-lighting"
           },
           {
             "label": "Wiring",
-            "href": "/electrical-wiring.html"
+            "href": "/electrical-wiring"
           },
           {
             "label": "Design",
-            "href": "/electrical-design.html"
+            "href": "/electrical-design"
           }
         ]
       },
@@ -90,15 +90,15 @@
         "children": [
           {
             "label": "Solar System News",
-            "href": "/solar-system-news.html"
+            "href": "/solar-system-news"
           },
           {
             "label": "Airlec Solar Installations",
-            "href": "/airlec-solar-installations.html"
+            "href": "/airlec-solar-installations"
           },
           {
             "label": "About",
-            "href": "/about-will-campbell.html"
+            "href": "/about-will-campbell"
           }
         ]
       }
@@ -191,7 +191,7 @@
           "heading": "Solar Systems",
           "button": {
             "label": "Products",
-            "href": "/solar-power-products.html"
+            "href": "/solar-power-products"
           },
           "text": "We design, supply and install On-Grid as well as Off-Grid Solar Systems from 5kw to 30kw for commercial, agricultural and domestic applications. Our installation area includes Toowoomba and the South Western region of Queensland.",
           "logo": {
@@ -203,12 +203,12 @@
           "icon": {
             "src": "/assets/air-conditioner_2.png",
             "alt": "Air Conditioning Toowoomba",
-            "href": "/air-conditioning-split-systems.html"
+            "href": "/air-conditioning-split-systems"
           },
           "heading": "Air Conditioning",
           "button": {
             "label": "Packages",
-            "href": "/air-conditioning-packages.html"
+            "href": "/air-conditioning-packages"
           },
           "text": "Take advantage of the significant cost savings when you purchase one of our fantastic Air Conditioning Packages. Systems include Mitsubishi, Fujitsu and other leading brands supplied and installed at your convenience.",
           "logo": {
@@ -225,7 +225,7 @@
           "heading": "General Electrical",
           "button": {
             "label": "Lighting",
-            "href": "/electrical-lighting.html"
+            "href": "/electrical-lighting"
           },
           "text": "While we're installing your Solar system we can help you with any other electrical requirements you might have. Additional power, lighting, rewiring, safety checks, appliance installation and repairs.",
           "logo": {
@@ -250,7 +250,471 @@
         ]
       }
     },
-    "/solar-power-products.html": {
+    "/solar-system-news/which-solar-system-is-right-for-you": {
+      "type": "post",
+      "seo": {
+        "title": "Which Solar System is right for you?",
+        "description": "Rising electricity costs and the desire to use green energy are very good reasons to start thinking about solar for you and your family. But which system is right for you?  Read more about this and other important solar system considerations at the Airlec"
+      },
+      "banner": {
+        "title": "Solar System News"
+      },
+      "sidebar": {
+        "heading": "Topics",
+        "items": []
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Which Solar System is Right for You?",
+              "href": "/solar-system-news/which-solar-system-is-right-for-you"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "6/2/2020"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Rising electricity costs and the desire to use green energy are very good reasons to start thinking about solar for you and your family. But which system is right for you?"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/residential-solar-val-man.jpeg",
+              "alt": "Solar Panel System installed on 2 storey home by Airlec Australia Toowoomba",
+              "width": 892
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "What is your energy consumption?"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The best way to understand your energy consumption is by looking at your bill from your electricity provider. There will be an average daily usage in KWH (Kilowatt hours) listed on your bill to give you a guide on your daily consumption. The below table is a sizing guide based on your family make up. This is only a generalisation and you will need to understand your usage based on your actual bill to assist in making an informed decision regarding size requirements. You will also need to consider if you want to completely eliminate your electricity bill or if you intend to only reduce the cost of your power."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "panel",
+          "background": "rgb(245, 245, 245)",
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 2,
+              "runs": [
+                {
+                  "text": "Solar System Sizing Guide"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "1 - 2 people",
+                          "strong": true
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "2 - 3 kw System"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Average production of 12 kwh per day"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "2 - 3 people",
+                          "strong": true
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "3 - 4 kw System"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Average production of 16 kwh per day"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ]
+                ]
+              ]
+            },
+            {
+              "type": "columns",
+              "rows": [
+                [
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "3 - 4 people",
+                          "strong": true
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "5 - 8 kw System"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "paragraph",
+                      "runs": [
+                        {
+                          "text": "Average production of 36 kwh per day"
+                        }
+                      ],
+                      "align": "justify"
+                    }
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Panels and Inverters"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "There are an extensive range of solar panels and inverters available on the marketing depending on your budget and the expectations of your system. Panels and inverters range in wattage output, type, warranty, colour and size so it is important to understand what you are hoping to achieve through your installation before giving consideration to the system design."
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Some questions you will need to ask are:",
+              "strong": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "What is your roof like?"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "do you have limited space, and do you suffer from shading from nearby trees? There are larger wattage panels available to reduce the number of panels required for roofs that have limited space. If you have shading issues you should consider a panel with an optimiser to ensure the greatest output range can be achieved. Removing the trees causing the shading is a more favourable option. For unsuitable roof spaces, or if you are concerned about the appearance of the system, you can consider a ground mount design."
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Is this your forever home?"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "If you are planning to live in your home for the long term, we recommend investing in a good quality panel and inverter that has a significant warranty attached to give you the peace of mind of the longevity of the system. In knowing your circumstances, we can recommend the best system to suit your budget and output expectations."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "Site Visit"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "A site visit gives you the opportunity to ask any questions you may have regarding solar products, how the system works and about Airlec as a Company. After the site visit, we will provide a proposal that will outline a detailed solar design, return on investment, and full product information (including warranty) tailored to meet your needs. Once you receive the proposal we can discuss why this is the best system for you."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Contact the Airlec team today to have a chat and book your site visit on ",
+              "strong": true
+            },
+            {
+              "text": "0466320600",
+              "strong": true,
+              "href": "tel:0466320600"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "panel",
+          "background": "rgb(230, 240, 249)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Comments are closed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "/airlec-solar-installations/on-grid-solar-system-for-commercial-turf-farm": {
+      "type": "post",
+      "seo": {
+        "title": "Commercial Turf Farm gets On Grid Solar System | Airlec Australia",
+        "description": "On-Grid Solar System installed at Turf Farm in Toowoomba by Airlec Australia"
+      },
+      "banner": {
+        "title": "Airlec Solar Installations"
+      },
+      "sidebar": {
+        "heading": "Project Type",
+        "items": []
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "runs": [
+            {
+              "text": "On-Grid Solar System for Commercial Turf Farm",
+              "href": "/airlec-solar-installations/on-grid-solar-system-for-commercial-turf-farm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "1/4/2020"
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "/assets/commercial-turf-farm-2-800px.jpg",
+              "alt": "Commercial turf farm gets on-grid solar system installed by Airlec Australia",
+              "href": "/assets/commercial-turf-farm-2-800px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/commercial-turf-farm-3-1280px.jpg",
+              "alt": "Toowoomba Turf Farm gets On-Grid Solar installed by Airlec Australia",
+              "href": "/assets/commercial-turf-farm-3-1280px_orig.jpg",
+              "width": 290
+            },
+            {
+              "src": "/assets/commercial-turf-farm-1-1280px.jpg",
+              "alt": "Solar Edge Inverter installed by Airlec Australia",
+              "href": "/assets/commercial-turf-farm-1-1280px_orig.jpg",
+              "width": 290
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "This project consisted of adding two additional systems to supplement the high-power usage at the turf farm. The systems that were installed consisted of:",
+              "strong": true
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            [
+              {
+                "text": "6.82 KW system consisting of 22 x Winaico WST310-M6 panels coupled with a SolarEdge Inverter SE7K"
+              }
+            ],
+            [
+              {
+                "text": "17.36 KW system consisting of 56 x Winaico WST310-M6 panels coupled with a SolarEdge Inverter SE15K"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "The Winaico Panels hold a 15 year product warranty and 25 year performance warranty with the SolarEdge inverters offering superior efficiency ratings with a 12 year warranty extendable to 25 years."
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "To find out more about these panels click on the link below:"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "https://www.winaico.com.au/products/wst-310-m6",
+              "href": "https://www.winaico.com.au/products/wst-310-m6",
+              "newTab": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "To find out more about the Solar Edge three phase inverters click on the link below:"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "https://www.solaredge.com/aus/products/pv-inverter/three-phase#/",
+              "href": "https://www.solaredge.com/aus/products/pv-inverter/three-phase#/",
+              "newTab": true
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "panel",
+          "background": "rgb(230, 240, 249)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "runs": [
+                {
+                  "text": "Comments are closed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "/solar-power-products": {
       "type": "service",
       "seo": {
         "title": "Solar Power Products Toowoomba | Airlec Australia",
@@ -981,7 +1445,7 @@
         }
       ]
     },
-    "/contact.html": {
+    "/contact": {
       "type": "contact",
       "seo": {
         "title": "Contact Electrician in Toowoomba Airlec Australia",
@@ -1159,7 +1623,7 @@
         }
       ]
     },
-    "/about-will-campbell.html": {
+    "/about-will-campbell": {
       "type": "about",
       "seo": {
         "title": "Airlec Australia | Solar Electrician in Toowoomba",
@@ -1246,7 +1710,7 @@
         }
       ]
     },
-    "/airlec-solar-installations.html": {
+    "/airlec-solar-installations": {
       "type": "listing",
       "seo": {
         "title": "Solar System Installations Toowoomba | Airlec Australia",
@@ -1569,7 +2033,7 @@
         }
       ]
     },
-    "/solar-system-news.html": {
+    "/solar-system-news": {
       "type": "listing",
       "seo": {
         "title": "Solar System News Toowoomba | Airlec Australia",
@@ -1726,470 +2190,6 @@
           ],
           "color": "rgb(0, 0, 0)",
           "fontSize": "16px"
-        }
-      ]
-    },
-    "/solar-system-news/which-solar-system-is-right-for-you": {
-      "type": "post",
-      "seo": {
-        "title": "Which Solar System is right for you?",
-        "description": "Rising electricity costs and the desire to use green energy are very good reasons to start thinking about solar for you and your family. But which system is right for you?  Read more about this and other important solar system considerations at the Airlec"
-      },
-      "banner": {
-        "title": "Solar System News"
-      },
-      "sidebar": {
-        "heading": "Topics",
-        "items": []
-      },
-      "blocks": [
-        {
-          "type": "heading",
-          "level": 2,
-          "runs": [
-            {
-              "text": "Which Solar System is Right for You?",
-              "href": "/solar-system-news/which-solar-system-is-right-for-you"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "6/2/2020"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Rising electricity costs and the desire to use green energy are very good reasons to start thinking about solar for you and your family. But which system is right for you?"
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "images",
-          "items": [
-            {
-              "src": "/assets/residential-solar-val-man.jpeg",
-              "alt": "Solar Panel System installed on 2 storey home by Airlec Australia Toowoomba",
-              "width": 892
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "runs": [
-            {
-              "text": "What is your energy consumption?"
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "The best way to understand your energy consumption is by looking at your bill from your electricity provider. There will be an average daily usage in KWH (Kilowatt hours) listed on your bill to give you a guide on your daily consumption. The below table is a sizing guide based on your family make up. This is only a generalisation and you will need to understand your usage based on your actual bill to assist in making an informed decision regarding size requirements. You will also need to consider if you want to completely eliminate your electricity bill or if you intend to only reduce the cost of your power."
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "panel",
-          "background": "rgb(245, 245, 245)",
-          "blocks": [
-            {
-              "type": "heading",
-              "level": 2,
-              "runs": [
-                {
-                  "text": "Solar System Sizing Guide"
-                }
-              ],
-              "align": "justify"
-            },
-            {
-              "type": "columns",
-              "rows": [
-                [
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "1 - 2 people",
-                          "strong": true
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ],
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "2 - 3 kw System"
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ],
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "Average production of 12 kwh per day"
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ]
-                ]
-              ]
-            },
-            {
-              "type": "columns",
-              "rows": [
-                [
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "2 - 3 people",
-                          "strong": true
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ],
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "3 - 4 kw System"
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ],
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "Average production of 16 kwh per day"
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ]
-                ]
-              ]
-            },
-            {
-              "type": "columns",
-              "rows": [
-                [
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "3 - 4 people",
-                          "strong": true
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ],
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "5 - 8 kw System"
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ],
-                  [
-                    {
-                      "type": "paragraph",
-                      "runs": [
-                        {
-                          "text": "Average production of 36 kwh per day"
-                        }
-                      ],
-                      "align": "justify"
-                    }
-                  ]
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "runs": [
-            {
-              "text": "Panels and Inverters"
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "There are an extensive range of solar panels and inverters available on the marketing depending on your budget and the expectations of your system. Panels and inverters range in wattage output, type, warranty, colour and size so it is important to understand what you are hoping to achieve through your installation before giving consideration to the system design."
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "Some questions you will need to ask are:",
-              "strong": true
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "What is your roof like?"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "do you have limited space, and do you suffer from shading from nearby trees? There are larger wattage panels available to reduce the number of panels required for roofs that have limited space. If you have shading issues you should consider a panel with an optimiser to ensure the greatest output range can be achieved. Removing the trees causing the shading is a more favourable option. For unsuitable roof spaces, or if you are concerned about the appearance of the system, you can consider a ground mount design."
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "Is this your forever home?"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "If you are planning to live in your home for the long term, we recommend investing in a good quality panel and inverter that has a significant warranty attached to give you the peace of mind of the longevity of the system. In knowing your circumstances, we can recommend the best system to suit your budget and output expectations."
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "runs": [
-            {
-              "text": "Site Visit"
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "A site visit gives you the opportunity to ask any questions you may have regarding solar products, how the system works and about Airlec as a Company. After the site visit, we will provide a proposal that will outline a detailed solar design, return on investment, and full product information (including warranty) tailored to meet your needs. Once you receive the proposal we can discuss why this is the best system for you."
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "Contact the Airlec team today to have a chat and book your site visit on ",
-              "strong": true
-            },
-            {
-              "text": "0466320600",
-              "strong": true,
-              "href": "tel:0466320600"
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "panel",
-          "background": "rgb(230, 240, 249)",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Comments are closed."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "/airlec-solar-installations/on-grid-solar-system-for-commercial-turf-farm": {
-      "type": "post",
-      "seo": {
-        "title": "Commercial Turf Farm gets On Grid Solar System | Airlec Australia",
-        "description": "On-Grid Solar System installed at Turf Farm in Toowoomba by Airlec Australia"
-      },
-      "banner": {
-        "title": "Airlec Solar Installations"
-      },
-      "sidebar": {
-        "heading": "Project Type",
-        "items": []
-      },
-      "blocks": [
-        {
-          "type": "heading",
-          "level": 2,
-          "runs": [
-            {
-              "text": "On-Grid Solar System for Commercial Turf Farm",
-              "href": "/airlec-solar-installations/on-grid-solar-system-for-commercial-turf-farm"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "1/4/2020"
-            }
-          ]
-        },
-        {
-          "type": "images",
-          "items": [
-            {
-              "src": "/assets/commercial-turf-farm-2-800px.jpg",
-              "alt": "Commercial turf farm gets on-grid solar system installed by Airlec Australia",
-              "href": "/assets/commercial-turf-farm-2-800px_orig.jpg",
-              "width": 290
-            },
-            {
-              "src": "/assets/commercial-turf-farm-3-1280px.jpg",
-              "alt": "Toowoomba Turf Farm gets On-Grid Solar installed by Airlec Australia",
-              "href": "/assets/commercial-turf-farm-3-1280px_orig.jpg",
-              "width": 290
-            },
-            {
-              "src": "/assets/commercial-turf-farm-1-1280px.jpg",
-              "alt": "Solar Edge Inverter installed by Airlec Australia",
-              "href": "/assets/commercial-turf-farm-1-1280px_orig.jpg",
-              "width": 290
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "This project consisted of adding two additional systems to supplement the high-power usage at the turf farm. The systems that were installed consisted of:",
-              "strong": true
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            [
-              {
-                "text": "6.82 KW system consisting of 22 x Winaico WST310-M6 panels coupled with a SolarEdge Inverter SE7K"
-              }
-            ],
-            [
-              {
-                "text": "17.36 KW system consisting of 56 x Winaico WST310-M6 panels coupled with a SolarEdge Inverter SE15K"
-              }
-            ]
-          ]
-        },
-        {
-          "type": "paragraph",
-          "runs": [
-            {
-              "text": "The Winaico Panels hold a 15 year product warranty and 25 year performance warranty with the SolarEdge inverters offering superior efficiency ratings with a 12 year warranty extendable to 25 years."
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "To find out more about these panels click on the link below:"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "https://www.winaico.com.au/products/wst-310-m6",
-              "href": "https://www.winaico.com.au/products/wst-310-m6",
-              "newTab": true
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "To find out more about the Solar Edge three phase inverters click on the link below:"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "\n"
-            },
-            {
-              "text": "https://www.solaredge.com/aus/products/pv-inverter/three-phase#/",
-              "href": "https://www.solaredge.com/aus/products/pv-inverter/three-phase#/",
-              "newTab": true
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "panel",
-          "background": "rgb(230, 240, 249)",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "runs": [
-                {
-                  "text": "Comments are closed."
-                }
-              ]
-            }
-          ]
         }
       ]
     }
